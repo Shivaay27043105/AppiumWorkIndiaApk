@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="42.865394">
+<testcase classname="WorkIndia Registeration" name="New user registration" time="42.865394">
+<system-out><![CDATA[Given initialise the App....................................................passed
+When User Enters the Name "shivam"..........................................passed
+And User Enters the Phone Number "6387496251"...............................passed
+Then User submit the details................................................passed
+And user select the option..................................................passed
+And user enter the location "Arjun Nagar"...................................passed
+Then user click on the next button..........................................passed
+And user select gender......................................................passed
+And user select qualification...............................................passed
+And user select medium......................................................passed
+And user select language....................................................passed
+And user select Experience..................................................passed
+And user select Age.........................................................passed
+And user select interest....................................................passed
+Then User goes to the next page.............................................passed
+And User Select there preference............................................passed
+And User tells about the Degree.............................................passed
+Then User Select the Language...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
